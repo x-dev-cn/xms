@@ -1,0 +1,1 @@
+package cn.xdev.auth.vo;
